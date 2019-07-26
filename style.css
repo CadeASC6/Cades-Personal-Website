@@ -1,0 +1,84 @@
+body{
+    background-color: antiquewhite;
+    padding:20px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#top_header{
+    display: flex;
+    background-color: rgb(119,136,153);
+    padding:20px;
+    font-size: 48px
+}
+#selfie img{
+    justify-content: flex-start;
+    width: 400px;
+    height:300px;
+    padding:20px;
+}
+#top_intro{
+    justify-content: flex-end;
+    font-size: 65px;
+}
+#come_from_header{
+    display: inline-block;
+    /* justify-content: center; */
+    background-color:rgb(0,128,128);
+    padding-left:7px;
+    padding-right:7px;
+    font-size:30px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+#come_from{
+    background-color:rgb(47,79,79);
+    padding:20px;
+}
+#family{
+    display: flex
+}
+#location{
+    display: flex
+}
+#school{
+    display: flex
+}
+.info{
+    font-size: 18px;
+    font-family: Georgia;
+}
+.image img{
+    width: 200px;
+    height:200px;
+}
+.contact_info{
+    font-size: 29px;
+}
+#social_life_header{
+    display:inline-block;
+     /* justify-content: center; */
+    background-color:rgb(0,128,128);
+    padding-left:7px;
+    padding-right:7px;
+    font-size:30px;
+    padding-top:0px;
+    padding-bottom:0px;
+}
+#social_life{
+    display:flex;
+    background-color:rgb(47,79,79);
+    padding: 20px;
+}
+#social_info{
+    flex-direction: column;
+    padding-left: 100px;
+    font-size: 30px;
+    font-family: Georgia;
+}
+.logo img{
+    width: 100px;
+    height:100px;
+}
+#wide_image img{
+    width: 900px;
+    height:400px;
+}
