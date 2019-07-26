@@ -1,2 +1,2 @@
 # Cades-Personal-Website
-my [website](www.google.com) from ASC week 3
+my [website](https://cadeasc6.github.io/Cades-Personal-Website/) from ASC week 3
